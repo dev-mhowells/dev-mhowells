@@ -3,9 +3,7 @@
 
 - 🔭 Right now, I'm working on **an e-learning platform for English learners.**
 
-- 🌱 I’m currently learning **React.**
-
-- 👯 I’m looking to collaborate on **anything related to charities and/ or chatbots!**
+- 👯 I’m looking to collaborate on **anything related to online learning**
 
 - 💬 Ask me about **how psychology interacts with technology.**
 
