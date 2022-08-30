@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I like making things that help people!</h3>
 
 - 🔭 Right now, I'm working on **an e-learning platform for English learners.**
 
