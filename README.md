@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">I like making things that help people!</h3>
 
-- 🔭 Right now, I'm working on **an e-learning platform for English learners.**
-
-- 👯 I’m looking to collaborate on **anything related to online learning**
-
-- 💬 Ask me about **how psychology interacts with technology.**
-
 - 📫 Reach me at: **dev.mhowells@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
